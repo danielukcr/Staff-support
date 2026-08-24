@@ -81,7 +81,7 @@
 
     <!-- GENERAL SUPPORT -->
     <div class="item">
-        <div class="text">Hello! I am Trainee Moderator Daniel, how can I help you today? (If I am late say Void!)</div>
+        <div class="text">Hello! I am Trial Moderator Its_danielv2, how can I help you today? (If I am late say Void!)</div>
         <button class="copy" onclick="copyText(this)">Copy</button>
     </div>
 
